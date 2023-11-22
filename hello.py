@@ -1,2 +1,1 @@
-def greet():
-print('hello and welcome!')
+print('hello!')
